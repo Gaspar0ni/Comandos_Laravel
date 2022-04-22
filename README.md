@@ -34,6 +34,14 @@ php artisan migrate:refresh --seed
 
 php artisan migrate:refresh --step=5
 
+@dd($variavel)      ajuda a saber quais valores da $var então sendo mandados para a view.
+
+@var-dump
+
+
+
+
+
 php artisan migrate --force
 
 php artisan migrate:rollback
